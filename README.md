@@ -72,6 +72,8 @@ The files were designed to support a Power BI star-schema model covering logisti
 
 ### Page 1: Executive Overview
 The Executive Overview provides a high-level operational health snapshot designed for senior management.
+---
+![Dashboard Overview](snapshots/SC%20overview.png)
 
 * **KPIs:** Total Logistics Cost, On-Time In-Full (OTIF %), Average Supplier Lead Time, Stockout Risk (Imminent SKUs)
 * **Visualizations:** OTIF Performance Trend, Logistics Cost Trend, Supplier Delay Ranking, Executive Summary (Dynamic Narrative)
@@ -79,6 +81,9 @@ The Executive Overview provides a high-level operational health snapshot designe
 
 ### Page 2: Inventory & Warehouse Intelligence
 This page focuses on warehouse operations and inventory optimization.
+
+---
+![Inventory Intelligence](snapshots/SC%20inventory.png)
 
 * **KPIs:** Current Inventory Value, Inventory Turnover, Warehouse Utilization, Days Inventory Remaining
 * **Visualizations:** Warehouse Utilization, SKU Velocity Analysis, Days Inventory Remaining, Inventory Distribution, Warehouse Performance
@@ -92,7 +97,9 @@ The supplier scorecard evaluates procurement performance and supplier reliabilit
 * **Business Insights:** Procurement teams can compare supplier performance, identify strategic/high-risk suppliers, evaluate lead times, monitor risk, and simulate future supplier disruptions.
 
 ---
+![Supplier Performance](snapshots/SC%20Supplier.png)
 
+---
 ## Key Business Metrics
 
 **OTIF (On-Time In-Full)**
