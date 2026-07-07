@@ -6,6 +6,8 @@ An enterprise-grade Supply Chain Control Tower built in Power BI that enables ex
 
 ---
 
+![Dashboard Overview](snapshots/SC%20overview.png)
+
 ## Overview
 
 Modern supply chains generate enormous amounts of operational data, yet many organizations still rely on static reports that explain what happened yesterday rather than helping decision-makers understand what will happen tomorrow. 
