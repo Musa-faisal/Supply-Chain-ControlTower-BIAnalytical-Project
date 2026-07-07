@@ -49,6 +49,23 @@ Answering these questions typically requires combining information across multip
 
 ---
 
+# Dataset Information
+
+This project uses synthetically generated supply chain data created specifically for portfolio and demonstration purposes.
+
+The dataset does not contain confidential company information, real customer records, personal data, or proprietary operational data.
+
+## Included Tables
+
+- `dim_products.csv`
+- `dim_suppliers.csv`
+- `dim_warehouses.csv`
+- `fact_inventory.csv`
+- `fact_shipments.csv`
+
+The files were designed to support a Power BI star-schema model covering logistics, inventory, warehouse, product, and supplier performance.
+
+
 ## Dashboard Pages
 
 ### Page 1: Executive Overview
