@@ -1,0 +1,21 @@
+Supplier_ID,Supplier_Name,Country,Contracted_Lead_Time_Days,Baseline_Defect_Rate
+SUP001,Vietnam Supplier 1,UAE,37,0.066
+SUP002,China Supplier 2,China,14,0.037
+SUP003,China Supplier 3,Vietnam,24,0.03
+SUP004,Pakistan Supplier 4,Vietnam,11,0.058
+SUP005,UAE Supplier 5,Vietnam,33,0.02
+SUP006,China Supplier 6,China,25,0.024
+SUP007,UAE Supplier 7,Pakistan,19,0.011
+SUP008,UAE Supplier 8,China,15,0.065
+SUP009,Vietnam Supplier 9,Pakistan,28,0.057
+SUP010,Pakistan Supplier 10,Pakistan,32,0.059
+SUP011,China Supplier 11,UAE,42,0.065
+SUP012,UAE Supplier 12,Pakistan,23,0.042
+SUP013,Pakistan Supplier 13,Vietnam,13,0.05
+SUP014,Vietnam Supplier 14,UAE,38,0.02
+SUP015,China Supplier 15,Vietnam,30,0.018
+SUP016,UAE Supplier 16,Vietnam,33,0.057
+SUP017,Vietnam Supplier 17,UAE,10,0.043
+SUP018,UAE Supplier 18,Vietnam,18,0.05
+SUP019,Pakistan Supplier 19,China,36,0.064
+SUP020,UAE Supplier 20,Vietnam,38,0.054

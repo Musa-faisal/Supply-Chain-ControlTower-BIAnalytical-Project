@@ -1,0 +1,15 @@
+Company
+
+GlobalMart Distribution
+
+Industry
+
+Supply Chain & Logistics
+
+Problem Statement
+
+Executives lack visibility into supplier performance, warehouse utilization, logistics costs, and inventory risk. Existing reports describe historical performance but fail to predict future stockouts or identify operational bottlenecks.
+
+Project Objective
+
+Develop a Supply Chain Control Tower that enables executives to monitor operational health, identify bottlenecks, evaluate supplier performance, and proactively reduce stockout risk through predictive inventory insights.

@@ -1,0 +1,11 @@
+Warehouse_ID,Location,Capacity_SqFt,Storage_Cost_Per_Unit
+WH01,Lahore,31602,4.89
+WH02,Karachi,120614,3.93
+WH03,Islamabad,105094,4.04
+WH04,Dubai,77054,1.08
+WH05,Riyadh,76291,2.53
+WH06,Lahore,131617,2.17
+WH07,Karachi,31172,4.67
+WH08,Islamabad,110657,3.4
+WH09,Dubai,46191,4.2
+WH10,Riyadh,32243,2.5
